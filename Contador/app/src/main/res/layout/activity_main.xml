@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btZerar"
+        android:onClick="zerar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:fontFamily="sans-serif"
+        android:textColor="#FF0000"
+        android:textSize="80sp"
+        android:text="Zerar"
+        android:layout_weight="0" />
+
+    <TextView
+        android:id="@+id/txtContador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="#FF0000"
+        android:fontFamily="sans-serif"
+        android:textColor="#FFFFFF"
+        android:textSize="150sp"
+        android:textStyle="bold"
+        android:layout_weight="2"/>
+
+    <Button
+        android:id="@+id/btContar"
+        android:onClick="contar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:fontFamily="sans-serif"
+        android:textColor="#FF0000"
+        android:textSize="80sp"
+        android:text="Contar"
+        android:layout_weight="0" />
+
+</LinearLayout>
