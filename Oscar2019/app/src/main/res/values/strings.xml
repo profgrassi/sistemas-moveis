@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Oscar 2019</string>
+    <string name="titulo_br">Bohemian Rhapsody</string>
+    <string name="genero_br">Drama; Biografia</string>
+    <string name="resumo_br">Filme sobre Freddie Mercury, vocalista da banda de rock britânica Queen.</string>
+    <string name="titulo_og">O Guia</string>
+    <string name="genero_og">Comédia; Drama; Biografia</string>
+    <string name="resumo_og">Filme sobre uma turnê na região de Deep South, nos Estados Unidos, feita pelo pianista de jazz clássico Don Shirley e Tony Vallelonga, um segurança ítalo-americano que trabalhou para Shirley como motorista e segurança.</string>
+    <string name="titulo_pn">Pantera Negra</string>
+    <string name="genero_pn">Ação; Aventura; Ficção científica</string>
+    <string name="resumo_pn">Filme de super-herói, baseado no personagem de mesmo nome, craido pela Marvel Comics.</string>
+    <string name="titulo_ro">Roma</string>
+    <string name="genero_ro">Drama</string>
+    <string name="resumo_ro">Filme semi-autobiográfico na Cidade do México, que discorre a vida de uma empregada doméstica numa família de classe média. Seu título é uma referência à Colonia Roma, um distrito localizado em Cuauhtémoc, no México.</string>
+</resources>
